@@ -104,7 +104,7 @@ function App() {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-auto">
-            <h5>Created by Xaydarov  </h5>
+            <h5>Created by Xaydarov Diyorbek </h5>
             </div>
           </div>
         </div>
