@@ -1,0 +1,6 @@
+1 node js 14-versiyasi o'rnatilgan bo'lishi kerak
+2 vs code o'rnatilishi shart
+
+=> paketlarni yuklab oladi  >>>>         npm install
+
+serverga run beradi >>>>>>>>              npm start
